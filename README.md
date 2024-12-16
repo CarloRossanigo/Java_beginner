@@ -26,10 +26,15 @@ This will execute the compiled Java program and allow you to interact with the s
 In this repository, you will find several projects, each focusing on different areas:
 
 Study Plan Management: A project for managing a study plan.
+
 Domino Game: A project that simulates the classic Domino game.
+
 Towers Game: A project for implementing the Towers game.
+
 Building Reservation System: A project for managing reservations in a building.
+
 Flight and Passenger Management: A project for managing flights and passengers.
+
 Agenda Management: A project for managing an agenda or schedule of appointments.
 
 
